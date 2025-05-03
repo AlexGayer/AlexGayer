@@ -22,9 +22,8 @@ Alguns dos meus projetos em destaque:
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexGayer&show_icons=true&theme=radical)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGayer&layout=compact&langs_count=8&theme=radical)
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexGayer&show_icons=true&theme=radical) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGayer&layout=compact&langs_count=8&theme=radical) |
+|:--:|:--:|
 
 
 ## 🤝 Conecte-se comigo
