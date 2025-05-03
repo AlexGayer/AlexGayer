@@ -33,9 +33,12 @@ Um sistema de design completo para Flutter, facilitando o desenvolvimento de int
 
 :contentReference[oaicite:24]{index=24}:contentReference[oaicite:26]{index=26}
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas
 
-![Estatísticas do GitHub de AlexGayer](https://github-readme-stats.vercel.app/api?username=AlexGayer&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexGayer&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGayer&layout=compact&langs_count=8&theme=radical)
+
 
 ## 🤝 Conecte-se comigo
 
