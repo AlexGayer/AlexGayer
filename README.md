@@ -11,7 +11,7 @@
 
 ## 🧩 Projetos em Destaque
 
-Um sistema de design completo para Flutter, facilitando o desenvolvimento de interfaces consistentes e reutilizáveis. Inclui componentes como telas de autenticação, configurações, manipulação de rotas e integração com biometria.:contentReference[oaicite:6]{index=6}
+Alguns dos meus projetos em destaque:
 
 ### 💰 [Pocket Saver](https://github.com/AlexGayer/pocket-saver)
 
