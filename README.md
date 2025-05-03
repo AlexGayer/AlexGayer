@@ -11,8 +11,6 @@
 
 ## 🧩 Projetos em Destaque
 
-### 📱 [CGI Design System for Flutter (cidsf)](https://github.com/cgisoftware/cidsf)
-
 Um sistema de design completo para Flutter, facilitando o desenvolvimento de interfaces consistentes e reutilizáveis. Inclui componentes como telas de autenticação, configurações, manipulação de rotas e integração com biometria.:contentReference[oaicite:6]{index=6}
 
 ### 💰 [Pocket Saver](https://github.com/AlexGayer/pocket-saver)
