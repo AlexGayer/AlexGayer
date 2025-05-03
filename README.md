@@ -15,23 +15,13 @@ Um sistema de design completo para Flutter, facilitando o desenvolvimento de int
 
 ### 💰 [Pocket Saver](https://github.com/AlexGayer/pocket-saver)
 
-:contentReference[oaicite:8]{index=8}:contentReference[oaicite:10]{index=10}
-
 ### 🏋️ [GymmPro](https://github.com/AlexGayer/gymmpro)
-
-:contentReference[oaicite:12]{index=12}:contentReference[oaicite:14]{index=14}
 
 ### ✅ [Feito](https://github.com/AlexGayer/feito)
 
-:contentReference[oaicite:16]{index=16}:contentReference[oaicite:18]{index=18}
-
 ### 🌐 [Calculadora Vue.js](https://github.com/AlexGayer/calculator)
 
-:contentReference[oaicite:20]{index=20}:contentReference[oaicite:22]{index=22}
-
 ### 🌐 [Projeto Marvel](https://github.com/AlexGayer/marvel)
-
-:contentReference[oaicite:24]{index=24}:contentReference[oaicite:26]{index=26}
 
 ## 📊 Estatísticas
 
@@ -42,8 +32,10 @@ Um sistema de design completo para Flutter, facilitando o desenvolvimento de int
 
 ## 🤝 Conecte-se comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexandregayer)
-- 📧 Email: alexandre.gayer@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-gayer-da-silva-7954624a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandegayer/)
+[![X / Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AlexGayer35)
+
 
 ---
 
