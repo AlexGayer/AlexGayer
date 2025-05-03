@@ -19,9 +19,6 @@ Um sistema de design completo para Flutter, facilitando o desenvolvimento de int
 
 ### ✅ [Feito](https://github.com/AlexGayer/feito)
 
-### 🌐 [Calculadora Vue.js](https://github.com/AlexGayer/calculator)
-
-### 🌐 [Projeto Marvel](https://github.com/AlexGayer/marvel)
 
 ## 📊 Estatísticas
 
